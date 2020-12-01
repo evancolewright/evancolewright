@@ -11,11 +11,11 @@ I'm a Software Developer from the Greenville, NC area with knowledge in a wide r
 - ⚡ Fun fact:  I enjoy travelling and spending time with friends (Doesn't everyone).
   
 ### Technologies I've worked with:
-[![Java](https://img.shields.io/badge/-Java-61DBFB?style=for-the-badge&labelColor=white&logo=java&logoColor=007396)](#) 
-[![Javascript](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=white&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=white&logo=node.js&logoColor=3C873A)](#) 
-[![SQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=white&logo=mysql&logoColor=4479A1)](#) 
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=white&logo=react&logoColor=47A248)](#) 
-[![React](https://img.shields.io/badge/-React-0088CC?style=for-the-badge&labelColor=white&logo=react&logoColor=61DAFB)](#)
+[![Java](https://img.shields.io/badge/-Java-61DBFB?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#) 
+[![Javascript](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
+[![SQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#) 
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=react&logoColor=47A248)](#) 
+[![React](https://img.shields.io/badge/-React-0088CC?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#)
 
 (A full list of technologies can be found on my resume)
 <br />
