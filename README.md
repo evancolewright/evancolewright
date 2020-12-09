@@ -2,6 +2,7 @@
 
 I'm a Software Engineer from NC currently studying Computer Programming at Pitt Community College.  I enjoy learning new technolgies and solving problems along the way!  
 
+### Facts 📕
 - 🔭 I am currently working on a native mobile application for a housing coalition. 
 - ⚡ Fun fact:  I never sleep (literally).
 
