@@ -1,6 +1,6 @@
 # Hi, I'm Evan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm a Software Engineer from NC currently studying Computer Programming at Pitt Community College.  I enjoy learning new technolgies and solving problems along the way!  
+I'm a Software Engineer from North Carolina currently studying Computer Programming at Pitt Community College.  I enjoy learning new technolgies and solving problems along the way!  
 
 ### Facts 📕
 - 🔭 I am currently working on a native mobile application for a housing coalition. 
@@ -19,8 +19,8 @@ I'm a Software Engineer from NC currently studying Computer Programming at Pitt 
 <br />
 
 ### My Public Software 💾
-<img src="https://api.mcbanners.com/banner/saved/LNYWWhHdeFdTxd.png"></img>
-<img src="https://api.mcbanners.com/banner/saved/IyCGpWPmsBZYeY.png"></img>
+<a href="https://www.spigotmc.org/resources/headdrops.15964/" target="_blank"><img src="https://api.mcbanners.com/banner/saved/LNYWWhHdeFdTxd.png"></img></a>
+<a href="https://www.spigotmc.org/resources/inventory-restore-1-8.22436/" target="_blank"> <img src="https://api.mcbanners.com/banner/saved/IyCGpWPmsBZYeY.png"></img> </a>
 
 ### Stats 📊
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evancolewright&theme=dark&layout=compact&langs_count=6" />
