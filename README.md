@@ -1,6 +1,6 @@
 # Hi, I'm Evan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm a Software Engineer from North Carolina currently studying Computer Programming at Pitt Community College.  I enjoy learning new technolgies and solving problems along the way!  
+I'm a Software Developer from North Carolina currently studying Computer Programming at Pitt Community College.  I enjoy learning new technolgies and solving problems along the way!  
 
 ### Facts 📕
 - 🔭 I am currently working on a native mobile application for a housing coalition. 
