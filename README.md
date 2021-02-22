@@ -4,8 +4,6 @@ I'm a Software Developer from North Carolina currently studying Computer Program
 
 ### Facts 📕
 - 🔭 I am currently working on a native mobile application for a housing coalition. 
-- ⚡ Fun fact:  I never sleep (literally).
-
 
   
 ### Technologies 💻
