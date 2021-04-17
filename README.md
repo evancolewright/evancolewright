@@ -25,6 +25,4 @@ I'm a Software Developer from North Carolina currently studying Computer Program
 
 ### Business 📝
 
-__I'm open to full-time, part-time, freelance, or contract work__.  If you want to work with me, please don't hesitate to utilize one of the links below to contact me!
-
  [![Linkedin Badge](https://img.shields.io/badge/-Evan_Wright-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evan-wright-6b6130194/) [![Mail Badge](https://img.shields.io/badge/-evanwright35@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:evanwright35@gmail.com)
