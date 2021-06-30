@@ -1,6 +1,6 @@
 # Hi, I'm Evan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm a Software Developer from North Carolina currently studying Computer Programming at Pitt Community College.  I enjoy learning new technolgies and solving problems along the way!  
+I'm a Software Developer from the United States currently studying Computer Programming.  I enjoy learning new technolgies and solving problems along the way!  
 
 ### Facts 📕
 - 🔭 I am currently working on a native mobile application for a housing coalition. 
@@ -13,16 +13,5 @@ I'm a Software Developer from North Carolina currently studying Computer Program
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=292929&logo=mongodb&logoColor=47A248)](#) 
 [![React](https://img.shields.io/badge/-React-0088CC?style=for-the-badge&labelColor=292929&logo=react&logoColor=61DAFB)](#)
 
-(A full list of technologies can be found on my resume)
 <br />
 
-### My Public Software 💾
-<a href="https://www.spigotmc.org/resources/headdrops.15964/" target="_blank"><img src="https://api.mcbanners.com/banner/saved/LNYWWhHdeFdTxd.png"></img></a>
-<a href="https://www.spigotmc.org/resources/inventory-restore-1-8.22436/" target="_blank"> <img src="https://api.mcbanners.com/banner/saved/IyCGpWPmsBZYeY.png"></img> </a>
-
-### Stats 📊
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evancolewright&theme=dark&layout=compact&langs_count=6" />
-
-### Business 📝
-
- [![Linkedin Badge](https://img.shields.io/badge/-Evan_Wright-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evan-wright-6b6130194/) [![Mail Badge](https://img.shields.io/badge/-evanwright35@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:evanwright35@gmail.com)
