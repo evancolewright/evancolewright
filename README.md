@@ -1,10 +1,6 @@
 # Hi, I'm Evan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm a Software Developer from the United States currently studying Computer Programming.  I enjoy learning new technolgies and solving problems along the way!  
-
-### Facts 📕
-- 🔭 I am currently working on a native mobile application for a housing coalition. 
-
+I'm a programmer from the United States currently studying Computer Programming.  I enjoy learning new technolgies and solving difficult problems along the way. 
   
 ### Technologies 💻
 [![Java](https://img.shields.io/badge/-Java-61DBFB?style=for-the-badge&labelColor=292929&logo=java&logoColor=007396)](#) 
