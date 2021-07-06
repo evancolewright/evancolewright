@@ -56,6 +56,8 @@
 
 <!-- MySql -->
 <img src="https://img.shields.io/static/v1?label=&message=Mysql&color=4479A1&style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1"> 
+<!-- OracleDB -->
+<img src="https://img.shields.io/static/v1?label=&message=OracleDB&color=F80000&style=for-the-badge&labelColor=black&logo=oracle&logoColor=F80000"> 
 <!-- Mongo -->
 <img src="https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248"> 
 <!-- Firebase -->
