@@ -8,7 +8,7 @@
       title="LinkedIn"
       src="https://img.shields.io/badge/-LinkedIN-red?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2"
   /></a>
-  <a href="https://twitter.com/DenverCoder1"
+  <a href="mailto:evanwright35@gmail.com" target="_blank"
     ><img
       alt="Gmail"
       title="GMail"
