@@ -33,19 +33,9 @@
 
 ### My Skills
 > For a more comprehensive list that includes dependency mangement tools and other miscelaneous libraries, please refer to my resume/cv.
-
-![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&style=for-the-badge&labelColor=black&logo=C%2B%2B&logoColor=%2300599C)
-
-![Java](https://img.shields.io/static/v1?label=&message=Java&color=00599C&style=for-the-badge&labelColor=black&logo=Java&logoColor=007396)
-
-<a>
-    <img src="https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&style=for-the-badge&labelColor=black&logo=C%2B%2B&logoColor=%2300599C"> 
-</a> 
-<!-- Java -->
-<a>
-    <img src="https://img.shields.io/static/v1?label=&message=Java&color=00599C&style=for-the-badge&labelColor=black&logo=Java&logoColor=007396"> 
-</a>
- 
+<p>
+<img src="https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&style=for-the-badge&labelColor=black&logo=C%2B%2B&logoColor=%2300599C)">
+ <img src="https://img.shields.io/static/v1?label=&message=Java&color=00599C&style=for-the-badge&labelColor=black&logo=Java&logoColor=007396"> 
 <!-- HTML -->
 <img src="https://img.shields.io/static/v1?label=&message=HTML&color=E34F26&style=for-the-badge&labelColor=black&logo=CSS3&logoColor=E34F26">  
 <!-- CSS -->
@@ -76,11 +66,12 @@
 <!-- Red hat-->
 <img src="https://img.shields.io/static/v1?label=&message=Red Hat Enterprise Linux&color=EE0000&style=for-the-badge&labelColor=black&logo=redhat&logoColor=EE0000"> 
 
+</p>
 <hr>
 
 ### GitHub Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampavangandhi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=evancolewright&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evancolewright&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 
 
