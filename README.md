@@ -56,7 +56,7 @@
 <!-- Mongo -->
 <img src="https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248"> 
 <!-- Firebase -->
-<img src="https://img.shields.io/static/v1?label=&message=Google Firebase&color=4285F4&style=for-the-badge&labelColor=black&logo=google&logoColor=4285F4"> 
+<!-- <img src="https://img.shields.io/static/v1?label=&message=Google Firebase&color=4285F4&style=for-the-badge&labelColor=black&logo=google&logoColor=4285F4">  -->
 
 <!-- Git -->
 <img src="https://img.shields.io/static/v1?label=&message=Git&color=F05032&style=for-the-badge&labelColor=black&logo=git&logoColor=F05032"> 
@@ -64,7 +64,7 @@
 <img src="https://img.shields.io/static/v1?label=&message=Github&color=181717&style=for-the-badge&labelColor=black&logo=github&logoColor=white"> 
 
 <!-- Red hat-->
-<img src="https://img.shields.io/static/v1?label=&message=Red Hat Enterprise Linux&color=FCC624&style=for-the-badge&labelColor=black&logo=linux&logoColor=FCC624"> 
+<!-- <img src="https://img.shields.io/static/v1?label=&message=Red Hat Enterprise Linux&color=FCC624&style=for-the-badge&labelColor=black&logo=linux&logoColor=FCC624">  -->
 
 </p>
 <hr>
