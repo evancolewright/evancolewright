@@ -2,21 +2,24 @@
 <h3 align="center">An undergraduate student, programmer, and avid learner</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/evan-wright-6b6130194/">
-    <img
-      src="https://img.shields.io/static/v1?label=&message=+evan-wright&style=flat-square&color=%230e76a8&logo=Linkedin"
-    />
-  </a>
-  <a href="mailto:evanwright@gmail.com" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?label=&message=evanwright35%40gmail.com&style=flat-square&color=red&logo=GMail&logoColor=white"
-    />
-  </a>
-  <a href="mailto:evanwright@gmail.com" target="_blank">
-    <img
-      src="https://img.shields.io/badge/evanwright35-brightgreen?logo=Medium&style=flat-square&logoColor=white"
-    />
-  </a>
+  <a href="https://www.linkedin.com/in/evan-wright-6b6130194/"
+    ><img
+      alt="LinkedIn"
+      title="LinkedIn"
+      src="https://img.shields.io/badge/-LinkedIN-red?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2"
+  /></a>
+  <a href="https://twitter.com/DenverCoder1"
+    ><img
+      alt="Gmail"
+      title="GMail"
+      src="https://img.shields.io/badge/-Email-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335"
+  /></a>
+  <a href="https://dev.to/evancolewright"
+    ><img
+      alt="Dev.to"
+      title="Dev.to"
+      src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"
+  /></a>
 </p>
 <br>
 
@@ -32,7 +35,7 @@
 <hr>
 
 ### My Skills
-> For a more comprehensive list that includes dependency mangement tools and other miscelaneous libraries, please refer to my resume/cv.
+<br>
 <p>
 <img src="https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&style=for-the-badge&labelColor=black&logo=C%2B%2B&logoColor=%2300599C)">
  <img src="https://img.shields.io/static/v1?label=&message=Java&color=00599C&style=for-the-badge&labelColor=black&logo=Java&logoColor=007396"> 
@@ -69,9 +72,12 @@
 </p>
 <hr>
 
-### GitHub Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=evancolewright&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evancolewright&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+### 📊 Github Stats
+
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Evan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=evancolewright&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Evan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=evancolewright&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <br/>
 
 
 
