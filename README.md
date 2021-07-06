@@ -33,7 +33,11 @@
 
 ### My Skills
 > For a more comprehensive list that includes dependency mangement tools and other miscelaneous libraries, please refer to my resume/cv.
-<!-- C++ -->
+
+![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&style=for-the-badge&labelColor=black&logo=C%2B%2B&logoColor=%2300599C)
+
+![Java](https://img.shields.io/static/v1?label=&message=Java&color=00599C&style=for-the-badge&labelColor=black&logo=Java&logoColor=007396)
+
 <a>
     <img src="https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&style=for-the-badge&labelColor=black&logo=C%2B%2B&logoColor=%2300599C"> 
 </a> 
