@@ -32,10 +32,9 @@
   <br>
   🔭 I'm currently working & learning with a wide range of technologies
 </p>
-<hr>
 
-<h3 align="center"> <u> Skills </u>  </h2>
-<br>
+
+<h2 align="center"> My Skills  </h2>
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&style=for-the-badge&labelColor=black&logo=C%2B%2B&logoColor=%2300599C)">
  <img src="https://img.shields.io/static/v1?label=&message=Java&color=00599C&style=for-the-badge&labelColor=black&logo=Java&logoColor=007396"> 
@@ -70,11 +69,8 @@
 <!-- <img src="https://img.shields.io/static/v1?label=&message=Red Hat Enterprise Linux&color=FCC624&style=for-the-badge&labelColor=black&logo=linux&logoColor=FCC624">  -->
 
 </p>
-<hr>
 
-<h3 align="center"> <u> GitHub Stats </u> </h2>
-
-  <br/>
+<h2 align="center"> GitHub Stats </h2>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Evan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=evancolewright&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Evan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=evancolewright&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
