@@ -64,7 +64,7 @@
 <img src="https://img.shields.io/static/v1?label=&message=Github&color=181717&style=for-the-badge&labelColor=black&logo=github&logoColor=white"> 
 
 <!-- Red hat-->
-<img src="https://img.shields.io/static/v1?label=&message=Red Hat Enterprise Linux&color=EE0000&style=for-the-badge&labelColor=black&logo=redhat&logoColor=EE0000"> 
+<img src="https://img.shields.io/static/v1?label=&message=Red Hat Enterprise Linux&color=EE0000&style=for-the-badge&labelColor=black&logo=red%20hat&logoColor=EE0000"> 
 
 </p>
 <hr>
