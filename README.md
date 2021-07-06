@@ -28,7 +28,7 @@
 * 🔭 Currently working & learning with a wide range of technologies
 * **🖊**  Contributing knowledge and releasing free, open-sourced software for servers on  **[SpigotMC](https://www.spigotmc.org/members/evanthesurfer.97504/)**
 
-### Technologies:
+### Technologies
 > A complete list of technologies that I'm confortable with can be found on my [resume/cv](resume.com)
 > 
 [![Java](https://img.shields.io/badge/-Java-61DBFB?style=for-the-badge&labelColor=292929&logo=java&logoColor=007396)](#) 
@@ -37,10 +37,8 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=292929&logo=mongodb&logoColor=47A248)](#) 
 [![React](https://img.shields.io/badge/-React-0088CC?style=for-the-badge&labelColor=292929&logo=react&logoColor=61DAFB)](#)
 
-<br>
-<p align="center">
+### Stats
 <img  src="https://github-readme-stats.vercel.app/api?username=evancolewright&count_private=true&show_icons=true" alt="Evan-Wright Stats" />
-</p>
 
 
 
