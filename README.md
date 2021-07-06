@@ -32,6 +32,7 @@
   <br>
   🔭 I'm currently working & learning with a wide range of technologies
 </p>
+<br>
 
 
 <h2 align="center"> My Skills  </h2>
