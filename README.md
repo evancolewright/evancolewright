@@ -34,7 +34,7 @@
 </p>
 <hr>
 
-<h2 align="center">✏ My Skills: </h3>
+### ✏ Skills
 <br>
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&style=for-the-badge&labelColor=black&logo=C%2B%2B&logoColor=%2300599C)">
@@ -72,7 +72,7 @@
 </p>
 <hr>
 
-<h2 align="center"> My Stats:</h3>
+### 📃 Stats
 
   <br/>
   <p align="center">
