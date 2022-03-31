@@ -1,5 +1,5 @@
 <h2 align="center"> Hi 👋, I'm Evan </h2>
-<h3 align="center">A dilligent programmer and avid learner</h3>
+<h3 align="center">An inquisitive programmer and avid learner</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/evan-wright-6b6130194/"
@@ -13,12 +13,6 @@
       alt="Gmail"
       title="GMail"
       src="https://img.shields.io/badge/-Email-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335"
-  /></a>
-  <a href="https://dev.to/evancolewright"
-    ><img
-      alt="Dev.to"
-      title="Dev.to"
-      src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"
   /></a>
 </p>
 <br>
