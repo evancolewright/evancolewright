@@ -1,5 +1,5 @@
 <h2 align="center"> Hi 👋, I'm Evan </h2>
-<h3 align="center">An undergraduate student, programmer, and avid learner</h3>
+<h3 align="center">A dilligent programmer and avid learner</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/evan-wright-6b6130194/"
@@ -24,9 +24,7 @@
 <br>
 
 <p align="center">
-  🎓 I'm a final year <strong>Computer Programming & Software Development</strong> student at <a href="http://pittcc.edu">Pitt Community College</a>
-  <br>
-  👨‍💻 I work as a <strong>Jr. Programmer</strong> at <a href="http://valorsystems.com"> Valor Systems, Inc</a>
+  👨‍💻 I work as a <strong>Jr. Software Developer</strong> at <a href="http://valorsystems.com"> Valor Systems, Inc</a>
   <br>
     💻  I contribute knowledge and release free, open-sourced software for servers on <a href="https://www.spigotmc.org/members/evanthesurfer.97504/"> SpigotMC</a>
   <br>
