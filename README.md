@@ -2,6 +2,14 @@
 <h3 align="center">An inquisitive programmer and avid learner</h3>
 
 <p align="center">
+  👨‍💻 I work as a <strong>Jr. Software Developer</strong> at <a href="http://valorsystems.com"> Valor Systems, Inc</a>
+  <br>
+    💻  I contribute knowledge and release free, open-sourced software for servers on <a href="https://www.spigotmc.org/members/evanthesurfer.97504/"> SpigotMC</a>
+  <br>
+  🔭 I'm currently working & learning with a wide range of technologies
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/evan-wright-6b6130194/"
     ><img
       alt="LinkedIn"
@@ -15,17 +23,8 @@
       src="https://img.shields.io/badge/-Email-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335"
   /></a>
 </p>
-<br>
 
-<p align="center">
-  👨‍💻 I work as a <strong>Jr. Software Developer</strong> at <a href="http://valorsystems.com"> Valor Systems, Inc</a>
-  <br>
-    💻  I contribute knowledge and release free, open-sourced software for servers on <a href="https://www.spigotmc.org/members/evanthesurfer.97504/"> SpigotMC</a>
-  <br>
-  🔭 I'm currently working & learning with a wide range of technologies
-</p>
 <br>
-
 
 <h2 align="center"> Technologies That I'm Familiar With </h2>
 <p align="center">
