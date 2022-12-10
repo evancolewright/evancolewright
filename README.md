@@ -1,4 +1,4 @@
-<h2 align="left"> Hi 👋, I'm Evan  </h2>
+<h2 align="center"> Hi 👋, I'm Evan  </h2>
 
 <h3 align="left">An inquisitive engineer and avid learner</h3>
 
@@ -12,7 +12,7 @@
 
 <hr>
 
-<h3>Technologies I've used</h3>
+<h3>Technologies I have used</h3>
 <p>
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
   <img alt="Qt" src="https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white" /> 
@@ -51,10 +51,8 @@
 <hr>
 
 <h3 align="left"> My GitHub Stats </h2>
-  <p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Evan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=evancolewright&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Evan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=evancolewright&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  </p>
+
+![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=evancolewright&theme=gruvbox_light&show_icons=true)
 
   <hr/>
 
