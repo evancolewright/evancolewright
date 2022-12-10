@@ -10,7 +10,7 @@
   🔭 In my free-time, I love reading and spending time with my fiance.
 </p>
 
-<br>
+<hr>
 
 <h3>Technologies I have used</h3>
 <p>
@@ -48,7 +48,7 @@
   <img alt="SourceTree" src="https://img.shields.io/badge/-SourceTree-0052CC?style=flat-square&logo=sourcetree&logoColor=white" />
 </p>
 
-<br>
+<hr>
 
 <h3 align="left"> My GitHub Stats </h2>
   <p align="left">
@@ -56,7 +56,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Evan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=evancolewright&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   </p>
 
-  <br/>
+  <hr/>
 
 <h3>Connect with me</h3>
 
