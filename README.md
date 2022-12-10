@@ -1,15 +1,66 @@
-<h2 align="center"> Hi 👋, I'm Evan </h2>
-<h3 align="center">An inquisitive programmer and avid learner</h3>
+<h2 align="left"> Hi 👋, I'm Evan  </h2>
 
-<p align="center">
-  👨‍💻 I work as a <strong>Jr. Software Developer</strong> at <a href="http://valorsystems.com"> Valor Systems, Inc</a>
+<h3 align="left">An inquisitive engineer and avid learner</h3>
+
+<p align="left">
+  👨‍💻 I work as a <strong>Jr. Software Developer</strong> at <a href="http://valorsystems.com"> Valor Systems, Inc.</a>
   <br>
-    💻  I contribute knowledge and release free, open-sourced software for servers on <a href="https://www.spigotmc.org/members/evanthesurfer.97504/"> SpigotMC</a>
+    ⌨️  I maintain a couple of neat side projects such as <a>Saphira</a>, a JDBC abstraction made with Java.
   <br>
-  🔭 I'm currently working & learning with a wide range of technologies
+  🔭 In my free-time, I love reading and spending time with my fiance.
 </p>
 
-<p align="center">
+<br>
+
+<h3>Technologies I have used</h3>
+<p>
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
+  <img alt="Qt" src="https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white" /> 
+  <img alt="CMake" src="https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=Cmake&logoColor=white" />
+  <img alt="Aws S3" src="https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-00599C?style=flat-square&logo=BuyMeACoffee&logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img alt="Maven" src="https://img.shields.io/badge/-Apache%20Maven-C71A36?style=flat-square&logo=ApacheMaven&logoColor=white" />
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="JS" src="https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=js&logoColor=white" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/-Node.JS-339933?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
+
+
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" />
+
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="MSSQL" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+
+  <img alt="Firefox" src="https://img.shields.io/badge/-Firefox%20Developer%20Edition-FF7139?style=flat-square&logo=firefox&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white" />
+  <img alt="SourceTree" src="https://img.shields.io/badge/-SourceTree-0052CC?style=flat-square&logo=sourcetree&logoColor=white" />
+</p>
+
+<br>
+
+<h3 align="left"> My GitHub Stats </h2>
+  <p align="left">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Evan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=evancolewright&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Evan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=evancolewright&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  </p>
+
+  <br/>
+
+<h3>Connect with me</h3>
+
+<p align="left">
   <a href="https://www.linkedin.com/in/evan-wright-6b6130194/"
     ><img
       alt="LinkedIn"
@@ -23,54 +74,4 @@
       src="https://img.shields.io/badge/-Email-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335"
   /></a>
 </p>
-
-<br>
-
-<h2 align="center"> Technologies That I'm Familiar With </h2>
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=&message=Qt&color=41CD52&style=for-the-badge&labelColor=black&logo=qt&logoColor=41CD52"> 
-<img src="https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&style=for-the-badge&labelColor=black&logo=C%2B%2B&logoColor=%2300599C)">
- <img src="https://img.shields.io/static/v1?label=&message=Java&color=00599C&style=for-the-badge&labelColor=black&logo=Java&logoColor=007396"> 
-<!-- HTML -->
-<img src="https://img.shields.io/static/v1?label=&message=HTML&color=E34F26&style=for-the-badge&labelColor=black&logo=CSS3&logoColor=E34F26">  
-<!-- CSS -->
-<img src="https://img.shields.io/static/v1?label=&message=CSS&color=1572B6&style=for-the-badge&labelColor=black&logo=CSS3&logoColor=1572B6">  
-<!-- Sass-->
-<img src="https://img.shields.io/static/v1?label=&message=Sass&color=CC6699&style=for-the-badge&labelColor=black&logo=SASS&logoColor=CC6699"> 
-<!-- Java Script -->
-<img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&style=for-the-badge&labelColor=black&logo=JavaScript&logoColor=F7DF1E">   
-<!-- Node JS -->
-<img src="https://img.shields.io/static/v1?label=&message=Node.js&color=339933&style=for-the-badge&labelColor=black&logo=Node.js&logoColor=339933">  
-<!-- React -->
-<img src="https://img.shields.io/static/v1?label=&message=React&color=61DAFB&style=for-the-badge&labelColor=black&logo=React&logoColor=61DAFB"> 
-<!-- Redux -->
-<img src="https://img.shields.io/static/v1?label=&message=Redux&color=764ABC&style=for-the-badge&labelColor=black&logo=Redux&logoColor=764ABC"> 
-
-<!-- MySql -->
-<img src="https://img.shields.io/static/v1?label=&message=Mysql&color=4479A1&style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1"> 
-<!-- OracleDB -->
-<img src="https://img.shields.io/static/v1?label=&message=OracleDB&color=F80000&style=for-the-badge&labelColor=black&logo=oracle&logoColor=F80000"> 
-<!-- Mongo -->
-<img src="https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248"> 
-
-<!-- Git -->
-<img src="https://img.shields.io/static/v1?label=&message=Git&color=F05032&style=for-the-badge&labelColor=black&logo=git&logoColor=F05032"> 
-<!-- Github -->
-<img src="https://img.shields.io/static/v1?label=&message=Github&color=181717&style=for-the-badge&labelColor=black&logo=github&logoColor=white"> 
-
-<!-- Red hat-->
-<!-- <img src="https://img.shields.io/static/v1?label=&message=Red Hat Enterprise Linux&color=FCC624&style=for-the-badge&labelColor=black&logo=linux&logoColor=FCC624">  -->
-
-</p>
-
-<h2 align="center"> GitHub Stats </h2>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Evan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=evancolewright&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Evan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=evancolewright&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  </p>
-  <br/>
-
-
-
-
 
