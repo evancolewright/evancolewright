@@ -52,7 +52,7 @@
 
 <h3 align="left"> My GitHub Stats </h2>
 
-![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=evancolewright&theme=cobalt&show_icons=true)
+![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=evancolewright&theme=onedark&show_icons=true)
 
   <hr/>
 
