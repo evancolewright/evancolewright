@@ -1,4 +1,4 @@
-<h2 align="center"> Hi 👋, I'm Evan  </h2>
+<h2 align="left"> Hi 👋, I'm Evan  </h2>
 
 <h3 align="left">An inquisitive engineer and avid learner</h3>
 
@@ -52,7 +52,7 @@
 
 <h3 align="left"> My GitHub Stats </h2>
 
-![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=evancolewright&theme=gruvbox_light&show_icons=true)
+![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=evancolewright&theme=cobalt&show_icons=true)
 
   <hr/>
 
