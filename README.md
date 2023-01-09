@@ -7,7 +7,7 @@
   <br>
     ⌨️  I maintain a couple of neat side projects such as <a>Saphira</a>, a JDBC abstraction made with Java.
   <br>
-  🔭 In my free-time, I love reading and spending time with my fiance.
+  🔭 In my free-time, I love fishing and spending time with my fiancé.
 </p>
 
 <hr>
