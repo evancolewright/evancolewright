@@ -60,16 +60,8 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/evan-wright-6b6130194/"
-    ><img
-      alt="LinkedIn"
-      title="LinkedIn"
-      src="https://img.shields.io/badge/-LinkedIN-red?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2"
-  /></a>
+    ><img alt="Email" src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="mailto:evanwright35@gmail.com" target="_blank"
-    ><img
-      alt="Gmail"
-      title="GMail"
-      src="https://img.shields.io/badge/-Email-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335"
-  /></a>
+    ><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" /></a>
 </p>
 
