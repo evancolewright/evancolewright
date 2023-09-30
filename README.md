@@ -3,7 +3,7 @@
 <h3 align="left">An inquisitive engineer and avid learner</h3>
 
 <p align="left">
-  👨‍💻 I work as a <strong>Jr. Software Developer</strong> at <a href="http://valorsystems.com"> Valor Systems, Inc.</a>
+  👨‍💻 I work as a <strong>Software Developer</strong> at <a href="http://valorsystems.com"> Valor Systems, Inc.</a>
   <br>
     ⌨️  I maintain a couple of neat side projects such as <a>Saphira</a>, a JDBC abstraction made with Java.
   <br>
