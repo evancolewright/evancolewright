@@ -1,6 +1,6 @@
 <h2 align="left"> Hi 👋, I'm Evan  </h2>
 
-<h3 align="left">An inquisitive engineer and avid learner</h3>
+<h3 align="left">About Me</h3>
 
 <p align="left">
   👨‍💻 I work as a <strong>Software Developer</strong> at <a href="http://valorsystems.com"> Valor Systems, Inc.</a>
