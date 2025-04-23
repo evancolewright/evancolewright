@@ -6,18 +6,9 @@
 
 I love learning new tech and solving difficult problems along the way.
 
-<p>
-  <a href="https://www.linkedin.com/in/evan-wright-6b6130194/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://evancolewright.github.io">
-    <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white" />
-  </a>
-</p>
-
 ---
 
-### Tools I've used alot
+#### Tools I've used alot
 
 <p>
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
@@ -32,5 +23,15 @@ I love learning new tech and solving difficult problems along the way.
   <img alt="SQL Server" src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
+
+#### My Links
+<p>
+  <a href="https://www.linkedin.com/in/evan-wright-6b6130194/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://evancolewright.github.io">
+    <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white" />
+  </a>
 </p>
 
