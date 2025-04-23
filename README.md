@@ -3,8 +3,8 @@
 >I enjoy learning new tech and solving difficult problems along the way.
 
 #### Contact Me
-- [LinkedIn](https://www.linkedin.com/in/evan-wright-6b6130194)
 - [Website](https://evancolewright.github.io)
+- [LinkedIn](https://www.linkedin.com/in/evan-wright-6b6130194)
 - [Email](mailto:evanwright35@gmail.com)
 
 #### Tools I've Used Frequently
