@@ -4,11 +4,11 @@
    I’m a <strong>software engineer</strong> 💻 adept in a wide array of technologies and stacks.
 </p>
 
-I love learning new tech and solving difficult problems along the way.
+I enjoy learning new tech and solving difficult problems along the way.
 
 ---
 
-#### Tools I've used alot
+#### Tools I've used a lot
 
 <p>
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
@@ -26,12 +26,7 @@ I love learning new tech and solving difficult problems along the way.
 </p>
 
 #### My Links
-<p>
-   <a href="https://www.linkedin.com/in/evan-wright-6b6130194/">
-     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-   </a>
-  <a href="https://evancolewright.github.io">
-    <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white" />
-  </a>
-</p>
+- [LinkedIn](https://www.linkedin.com/in/evan-wright-6b6130194)
+- [Website](https://evancolewright.github.io)
+- [Email](mailto:evanwright35@gmail.com)
 
