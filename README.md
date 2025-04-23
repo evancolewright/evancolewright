@@ -6,6 +6,11 @@
 
 I enjoy learning new tech and solving difficult problems along the way.
 
+#### Contact Me
+- [LinkedIn](https://www.linkedin.com/in/evan-wright-6b6130194)
+- [Website](https://evancolewright.github.io)
+- [Email](mailto:evanwright35@gmail.com)
+
 ---
 
 #### Tools I've used a lot
@@ -24,9 +29,4 @@ I enjoy learning new tech and solving difficult problems along the way.
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 </p>
-
-#### My Links
-- [LinkedIn](https://www.linkedin.com/in/evan-wright-6b6130194)
-- [Website](https://evancolewright.github.io)
-- [Email](mailto:evanwright35@gmail.com)
 
