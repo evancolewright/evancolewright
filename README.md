@@ -17,7 +17,7 @@
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
   <img alt="Qt" src="https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white" /> 
   <img alt="CMake" src="https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=Cmake&logoColor=white" />
-  <img alt="Aws S3" src="https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-00599C?style=flat-square&logo=BuyMeACoffee&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
@@ -49,12 +49,6 @@
 </p>
 
 <hr>
-
-<h3 align="left"> My GitHub Stats </h2>
-
-![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=evancolewright&theme=onedark&show_icons=true)
-
-  <hr/>
 
 <h3>Connect with me</h3>
 
