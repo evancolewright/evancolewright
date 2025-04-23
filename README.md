@@ -1,7 +1,7 @@
 # Hi, I'm Evan! 👋
 
 <p>
-   I’m a <strong>software engineer</strong>💻 adept in a wide array of technologies and stacks.
+   I’m a <strong>software engineer</strong> 💻 adept in a wide array of technologies and stacks.
 </p>
 
 I love learning new tech and solving difficult problems along the way.
