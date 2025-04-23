@@ -1,7 +1,7 @@
 # Hi, I'm Evan! 👋
 
 <p>
-   I’m a <strong>software engineer</strong> 💻 adept in a wide array of technologies and stacks.
+   I’m a <strong>software engineer</strong> adept in a wide array of technologies and stacks.
 </p>
 
 I enjoy learning new tech and solving difficult problems along the way.
@@ -13,7 +13,7 @@ I enjoy learning new tech and solving difficult problems along the way.
 
 ---
 
-#### Tools I've used a lot
+#### Tools I've used Frequently
 
 <p>
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
