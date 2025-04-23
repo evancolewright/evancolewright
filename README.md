@@ -1,14 +1,14 @@
 # Hi, I'm Evan! 👋
 
 <p>
-   I’m a <strong>software engineer</strong> adept in a wide array of technologies and stacks.
+   I’m a <strong>software engineer</strong>💻 adept in a wide array of technologies and stacks.
 </p>
 
 I love learning new tech and solving difficult problems along the way.
 
 <p>
   <a href="https://www.linkedin.com/in/evan-wright-6b6130194/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://evancolewright.github.io">
     <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white" />
