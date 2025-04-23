@@ -1,8 +1,10 @@
 # Hi, I'm Evan! 👋
 
-<p style="width:75%;">
- I’m a software engineer adept in a wide array of technologies and stacks. I love learning new tech and solving difficult problems along the way.
+<p>
+   I’m a <strong>software engineer</strong> adept in a wide array of technologies and stacks.
 </p>
+
+I love learning new tech and solving difficult problems along the way.
 
 <p>
   <a href="https://www.linkedin.com/in/evan-wright-6b6130194/">
@@ -15,7 +17,7 @@
 
 ---
 
-#### Tools I've used alot
+### Tools I've used alot
 
 <p>
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
