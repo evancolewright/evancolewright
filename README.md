@@ -1,10 +1,6 @@
 # Hi, I'm Evan! 👋
-
-<p>
-   I’m a <strong>software engineer</strong> adept in a wide array of technologies and stacks.
-</p>
-
-I enjoy learning new tech and solving difficult problems along the way.
+>I’m a <strong>software engineer</strong> adept in a wide array of technologies and stacks.
+>I enjoy learning new tech and solving difficult problems along the way.
 
 #### Contact Me
 - [LinkedIn](https://www.linkedin.com/in/evan-wright-6b6130194)
