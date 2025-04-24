@@ -1,12 +1,7 @@
 # Hi, I'm Evan! 👋
 >I’m a <strong>software engineer</strong> adept in a wide array of technologies and stacks.
 >I enjoy learning new tech and solving difficult problems along the way.
-
-#### Contact Me
-- [Website](https://evancolewright.github.io)
-- [LinkedIn](https://www.linkedin.com/in/evan-wright-6b6130194)
-- [Email](mailto:evanwright35@gmail.com)
-
+>
 #### Tools I've Used Frequently
 <p>
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
@@ -24,3 +19,8 @@
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
 </p>
+
+#### Contact Me
+- [Website](https://evancolewright.github.io)
+- [LinkedIn](https://www.linkedin.com/in/evan-wright-6b6130194)
+- [Email](mailto:evanwright35@gmail.com)
