@@ -4,7 +4,7 @@
 >I’m a <strong>software engineer</strong> adept in a wide array of technologies and stacks.
 >I enjoy learning new tech and solving difficult problems along the way.
 
-### Technologies I Use
+### Tools and Technologies
 <p>
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" />
